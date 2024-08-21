@@ -1,0 +1,7 @@
+patient,sample,status,lane,fastq_1,fastq_2
+rat_102,102_tumor,1,lane_1,/bgfs/alee/LO_LAB/General/Lab_Data/20240628_WES_Rat_Neil/30-1002928615/00_fastq/102-Tumor_R1_001.fastq.gz,/bgfs/alee/LO_LAB/General/Lab_Data/20240628_WES_Rat_Neil/30-1002928615/00_fastq/102-Tumor_R2_001.fastq.gz
+rat_107,107_tumor,1,lane_1,/bgfs/alee/LO_LAB/General/Lab_Data/20240628_WES_Rat_Neil/30-1002928615/00_fastq/107-L4t2_R1_001.fastq.gz,/bgfs/alee/LO_LAB/General/Lab_Data/20240628_WES_Rat_Neil/30-1002928615/00_fastq/107-L4t2_R2_001.fastq.gz
+rat_116,116_tumor,1,lane_1,/bgfs/alee/LO_LAB/General/Lab_Data/20240628_WES_Rat_Neil/30-1002928615/00_fastq/116-R4-Tumor_R1_001.fastq.gz,/bgfs/alee/LO_LAB/General/Lab_Data/20240628_WES_Rat_Neil/30-1002928615/00_fastq/116-R4-Tumor_R2_001.fastq.gz
+rat_157,157_tumor,1,lane_1,/bgfs/alee/LO_LAB/General/Lab_Data/20240628_WES_Rat_Neil/30-1002928615/00_fastq/157-R2-Tumor_R1_001.fastq.gz,/bgfs/alee/LO_LAB/General/Lab_Data/20240628_WES_Rat_Neil/30-1002928615/00_fastq/157-R2-Tumor_R2_001.fastq.gz
+rat_158,158_tumor,1,lane_1,/bgfs/alee/LO_LAB/General/Lab_Data/20240628_WES_Rat_Neil/30-1002928615/00_fastq/158-L2-Tumor_R1_001.fastq.gz,/bgfs/alee/LO_LAB/General/Lab_Data/20240628_WES_Rat_Neil/30-1002928615/00_fastq/158-L2-Tumor_R2_001.fastq.gz
+rat_167,167_tumor,1,lane_1,/bgfs/alee/LO_LAB/General/Lab_Data/20240628_WES_Rat_Neil/30-1002928615/00_fastq/167-L2-Tumor_R1_001.fastq.gz,/bgfs/alee/LO_LAB/General/Lab_Data/20240628_WES_Rat_Neil/30-1002928615/00_fastq/167-L2-Tumor_R2_001.fastq.gz
