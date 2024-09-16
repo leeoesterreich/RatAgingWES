@@ -1,7 +1,7 @@
 # RatAgingWES
 Github repository for code used to analyze whole exome sequencing data from older and younger rat tumors for {Paper name in Journal Name}
 
-This jupyter notebook takes in input files from VEP and other functions such as Sarek, input files, where possible as provided, sequencing files are stored on GEO_________. Some software may need to be installed based on instructions from their respective mainainers.
+This jupyter notebook takes in input files from VEP and other functions such as Sarek, input files, where possible as provided, sequencing files are stored on NCBI GEO, GSE276759. Some software may need to be installed based on instructions from their respective mainainers.
 
 Sarek and VEP must be run first to generate necessary Mutect, CNVKit and VEP output files for this jupyter notebook. Example bash scripts for the University of Pittsburgh HTC Cluster end in the .sh suffix. 
 
